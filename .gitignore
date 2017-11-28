@@ -1,0 +1,6 @@
+
+
+# Log file
+*.log
+target/
+projectstructure.iml
